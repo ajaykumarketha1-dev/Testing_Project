@@ -1,0 +1,210 @@
+{
+  "name": "Shaik Abdulla",
+  "title": "Full Stack Developer & Software Engineer",
+  "subtitle": "Building scalable solutions with modern technologies",
+  "bio": "I am a passionate Full Stack Developer with expertise in building enterprise applications, cloud solutions, and innovative software systems. With a focus on clean code and user-centric design, I transform complex problems into elegant solutions.",
+  "email": "shaik.abdulla@example.com",
+  "phone": "+1 (555) 123-4567",
+  "location": "San Francisco, CA",
+  "resumeId": "e35750",
+  "social": {
+    "github": "https://github.com/shaikabdulla",
+    "linkedin": "https://linkedin.com/in/shaikabdulla",
+    "twitter": "https://twitter.com/shaikabdulla",
+    "portfolio": "https://shaikabdulla.dev"
+  },
+  "experience": [
+    {
+      "id": 1,
+      "company": "Tech Innovations Inc.",
+      "position": "Senior Full Stack Engineer",
+      "duration": "2021 - Present",
+      "description": "Lead development of microservices architecture supporting 2M+ users. Implemented CI/CD pipelines reducing deployment time by 60%.",
+      "skills": ["Node.js", "React", "AWS", "Docker", "Kubernetes"],
+      "highlights": [
+        "Architected scalable backend systems handling 10K+ requests/sec",
+        "Mentored team of 5 junior developers",
+        "Reduced API response time by 40% through optimization"
+      ]
+    },
+    {
+      "id": 2,
+      "company": "Digital Solutions Ltd.",
+      "position": "Full Stack Developer",
+      "duration": "2019 - 2021",
+      "description": "Developed and maintained 15+ production applications using React and Node.js. Improved application performance by 35%.",
+      "skills": ["React", "Node.js", "MongoDB", "PostgreSQL", "Firebase"],
+      "highlights": [
+        "Built real-time dashboard processing 5M+ data points daily",
+        "Implemented automated testing reducing bugs by 45%",
+        "Collaborated with UX team on 3 major product redesigns"
+      ]
+    },
+    {
+      "id": 3,
+      "company": "StartUp Ventures",
+      "position": "Junior Developer",
+      "duration": "2018 - 2019",
+      "description": "Contributed to full-stack development of customer-facing web application. Gained experience in agile development and cloud technologies.",
+      "skills": ["JavaScript", "React", "Node.js", "AWS"],
+      "highlights": [
+        "Delivered 20+ features in sprint cycles",
+        "Achieved 95% test coverage for critical components",
+        "Participated in architectural decisions"
+      ]
+    }
+  ],
+  "skills": {
+    "frontend": [
+      "React.js",
+      "Vue.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Material-UI",
+      "Redux",
+      "Next.js"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "Python",
+      "Django",
+      "GraphQL",
+      "REST APIs",
+      "Socket.io"
+    ],
+    "database": [
+      "MongoDB",
+      "PostgreSQL",
+      "Redis",
+      "Firebase",
+      "Elasticsearch"
+    ],
+    "devops": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Google Cloud",
+      "CI/CD",
+      "GitHub Actions",
+      "Jenkins"
+    ],
+    "tools": [
+      "Git",
+      "VS Code",
+      "Webpack",
+      "Figma",
+      "JIRA",
+      "Postman"
+    ]
+  },
+  "featured_projects": [
+    {
+      "id": 1,
+      "title": "Real-time Analytics Dashboard",
+      "description": "Enterprise-grade analytics platform processing real-time data streams with interactive visualizations",
+      "image": "/assets/project-analytics.jpg",
+      "tags": ["React", "Node.js", "WebSocket", "D3.js"],
+      "link": "https://github.com/shaikabdulla/analytics-dashboard",
+      "highlights": [
+        "5M+ data points processed daily",
+        "Sub-100ms response times",
+        "Multi-tenant architecture"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "E-Commerce Microservices Platform",
+      "description": "Scalable e-commerce platform built with microservices architecture supporting 100K+ concurrent users",
+      "image": "/assets/project-ecommerce.jpg",
+      "tags": ["Kubernetes", "Node.js", "PostgreSQL", "Redis"],
+      "link": "https://github.com/shaikabdulla/ecommerce-platform",
+      "highlights": [
+        "99.99% uptime SLA",
+        "Horizontal scaling capability",
+        "Multi-region deployment"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "AI-Powered Content Management System",
+      "description": "CMS with integrated AI features for content generation and optimization powered by machine learning",
+      "image": "/assets/project-cms.jpg",
+      "tags": ["React", "Python", "TensorFlow", "AWS"],
+      "link": "https://github.com/shaikabdulla/ai-cms",
+      "highlights": [
+        "AI-powered content suggestions",
+        "Automated SEO optimization",
+        "Real-time collaboration"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "State University",
+      "degree": "Bachelor of Science in Computer Science",
+      "field": "Computer Science",
+      "year": "2018",
+      "gpa": "3.8/4.0",
+      "highlights": [
+        "Dean's List - All Semesters",
+        "President of Computer Science Club",
+        "Capstone Project: Distributed ML System"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect - Professional",
+      "issuer": "Amazon Web Services",
+      "date": "2023",
+      "credentialId": "AWS-SA-PROF-2023",
+      "url": "https://aws.amazon.com/certification"
+    },
+    {
+      "name": "Kubernetes Application Developer (CKAD)",
+      "issuer": "Cloud Native Computing Foundation",
+      "date": "2023",
+      "credentialId": "CKAD-2023-123456",
+      "url": "https://www.cncf.io/"
+    },
+    {
+      "name": "Google Cloud Professional Data Engineer",
+      "issuer": "Google Cloud",
+      "date": "2022",
+      "credentialId": "GCP-PDE-2022",
+      "url": "https://cloud.google.com/certification"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "John Smith",
+      "title": "CTO at Tech Innovations",
+      "text": "Shaik is an exceptional developer who consistently delivers high-quality code. His architectural insights have been instrumental in our platform's success.",
+      "image": "/assets/testimonial-1.jpg"
+    },
+    {
+      "author": "Sarah Johnson",
+      "title": "Product Manager",
+      "text": "Working with Shaik has been a pleasure. He brings both technical excellence and a strong focus on user experience to every project.",
+      "image": "/assets/testimonial-2.jpg"
+    }
+  ],
+  "links": [
+    {
+      "label": "Download Resume",
+      "url": "/resume/e35750.pdf",
+      "icon": "download"
+    },
+    {
+      "label": "View GitHub",
+      "url": "https://github.com/shaikabdulla",
+      "icon": "github"
+    },
+    {
+      "label": "Connect on LinkedIn",
+      "url": "https://linkedin.com/in/shaikabdulla",
+      "icon": "linkedin"
+    }
+  ]
+}
