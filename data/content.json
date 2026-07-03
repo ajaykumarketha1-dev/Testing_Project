@@ -1,0 +1,130 @@
+{
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "#home"
+    },
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "sections": {
+    "hero": {
+      "title": "Full Stack Developer & Software Architect",
+      "subtitle": "Crafting elegant solutions to complex problems",
+      "cta": "View My Work",
+      "ctaSecondary": "Get In Touch",
+      "pills": [
+        "React",
+        "Node.js",
+        "Cloud Architecture",
+        "Microservices"
+      ]
+    },
+    "about": {
+      "title": "About Me",
+      "heading": "Passionate Developer with 5+ Years of Experience",
+      "content": "I specialize in building scalable, high-performance applications using modern web technologies. With a strong foundation in both frontend and backend development, I create comprehensive solutions that solve real-world problems. My expertise spans from building responsive user interfaces to architecting robust backend systems.",
+      "highlights": [
+        {
+          "icon": "code",
+          "title": "Clean Code",
+          "description": "Writing maintainable, well-documented code following SOLID principles"
+        },
+        {
+          "icon": "zap",
+          "title": "Performance",
+          "description": "Optimizing applications for speed and efficiency at scale"
+        },
+        {
+          "icon": "users",
+          "title": "Collaboration",
+          "description": "Working effectively with teams to deliver outstanding results"
+        },
+        {
+          "icon": "target",
+          "title": "User-Focused",
+          "description": "Designing solutions with end-user experience in mind"
+        }
+      ]
+    },
+    "experience": {
+      "title": "Professional Experience",
+      "subtitle": "My journey in software development"
+    },
+    "projects": {
+      "title": "Featured Projects",
+      "subtitle": "A selection of my recent work and achievements"
+    },
+    "skills": {
+      "title": "Technical Skills",
+      "subtitle": "Technologies and tools I work with daily",
+      "categories": {
+        "frontend": "Frontend Development",
+        "backend": "Backend Development",
+        "database": "Databases",
+        "devops": "DevOps & Cloud",
+        "tools": "Tools & Utilities"
+      }
+    },
+    "education": {
+      "title": "Education & Certifications",
+      "subtitle": "Continuous learning and professional development"
+    },
+    "contact": {
+      "title": "Get In Touch",
+      "subtitle": "Let's connect and discuss how I can help with your next project",
+      "email_label": "Send me an email",
+      "phone_label": "Call me",
+      "social_label": "Follow me on social media"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Shaik Abdulla. All rights reserved.",
+    "links": [
+      {
+        "label": "Privacy Policy",
+        "href": "/privacy"
+      },
+      {
+        "label": "Terms of Service",
+        "href": "/terms"
+      },
+      {
+        "label": "Sitemap",
+        "href": "/sitemap"
+      }
+    ],
+    "credits": "Built with Next.js, React, and Tailwind CSS"
+  },
+  "metadata": {
+    "title": "Shaik Abdulla - Full Stack Developer & Software Architect",
+    "description": "Full Stack Developer with expertise in React, Node.js, and Cloud Architecture. Specializing in scalable applications and enterprise solutions.",
+    "keywords": "developer, software engineer, react, node.js, full stack, cloud architect",
+    "author": "Shaik Abdulla",
+    "resumeId": "e35750"
+  },
+  "theme": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#1f2937",
+    "accentColor": "#10b981",
+    "darkMode": true
+  }
+}
